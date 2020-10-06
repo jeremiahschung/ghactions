@@ -45,6 +45,7 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinxcontrib.katex',
     'recommonmark'
+    'sphinx_markdown_tables'
 
 ]
 
