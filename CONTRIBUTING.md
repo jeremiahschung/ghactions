@@ -1,4 +1,4 @@
-## Contributing to TorchServe
+## Contributing to TorchServea
 
 If you are interested in contributing to TorchServe, your contributions will fall into two categories:
 
